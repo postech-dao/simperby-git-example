@@ -1,0 +1,17 @@
+{
+  "header": {
+    "author": "<empty>",
+    "height": 0,
+    "timestamp": 0,
+    "validators": [
+      ["<key:john>", 1],
+      ["<key:james>", 1]
+    ],
+    "version": "0.1.0"
+  },
+  "chain_name": "ASO-MAINNET",
+  "genesis_proof": [
+    ["<key:john>", "<signature>"],
+    ["<key:james>", "<signature>"]
+  ]
+}

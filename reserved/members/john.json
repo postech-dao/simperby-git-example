@@ -1,0 +1,6 @@
+{
+  "public_key": "<key:john>",
+  "consensus_voting_power": 1,
+  "governance_voting_power": 1,
+  "delegation": null
+}
