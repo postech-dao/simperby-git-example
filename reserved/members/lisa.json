@@ -2,5 +2,8 @@
   "public_key": "<key:lisa>",
   "consensus_voting_power": 1,
   "governance_voting_power": 1,
-  "delegation": null
+  "delegation": {
+    "initial_delegatee": "<key:john>",
+    "current_delegatee": "<key:john>"
+  }
 }
